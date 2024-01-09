@@ -9,28 +9,12 @@ Humidity, Wind Speed, Temperature: Get detailed insights into key weather parame
 User-Friendly Interface: An intuitive interface designed for ease of use and accessibility. </p>
 
 <h3> Technologies Used </h3>
-<ul></ul>HTML
-CSS
-JavaScript
-How to Use
-Clone the repository to your local machine.
+<ul>HTML</ul>
+<ul>CSS</ul>
+<ul>JavaScript</ul>
 
-bash
-Copy code
-git clone https://github.com/your-username/weather-app.git
-Open the index.html file in your preferred web browser.
-
-Enter the desired location in the search bar and press Enter to retrieve the latest weather information.
-
-Screenshots
-Include screenshots of your application to give users a visual preview.
-
-Contributions
-Contributions are welcome! If you'd like to enhance the Weather App or fix any issues, please follow the standard GitHub flow:
-
-Fork the repository.
-Create a new branch.
-Make your changes.
-Open a pull request.
-License
-This project is licensed under the MIT License.
+<h3> How to Use </h3>
+<p>1. Clone the repository to your local machine. <br>
+git clone https://github.com/your-username/weather-app.git <br> <br>
+2. Open the index.html file in your preferred web browser. <br> <br>
+3. Enter the desired location in the search bar and press Enter to retrieve the latest weather information. </p>
